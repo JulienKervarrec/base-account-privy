@@ -225,3 +225,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
+
+## Parcours francais
+
+Une lecture pedagogique en francais de ce depot est disponible dans [docs/fr](docs/fr/README.md) : configuration de Privy pour Base Account, authentification SIWE, Sub Accounts, permissions de depense, et ce que Privy ajoute au-dela de Base Account.
